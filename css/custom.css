@@ -1,0 +1,148 @@
+html {
+	line-height: 1.5625;
+}
+
+.content {
+	width: auto!important;
+}
+
+.site-header {
+	background-color: #2c2d84;
+}
+
+.site-header .search-form-input {
+	padding-left: 20px!important;
+}
+
+.header-search-wrap {
+	max-width: 1024px;
+	left: unset!important;
+	padding-left: 0!important;
+	padding-right: 0px!important;
+}
+
+.wp-block-search {
+	flex-wrap: nowrap;
+}
+
+.nav-primary a {
+	color: #fff;
+}
+
+.nav-primary a:hover {
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.nav-primary .current-menu-item a {
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.genesis-nav-menu a, .genesis-nav-menu .toggle-header-search, .genesis-nav-menu a, .genesis-nav-menu .toggle-header-search:hover {
+	color: #fff;
+}
+
+.site-inner {
+	max-width: 1024px!important;
+}
+
+.site-header .wrap {
+	max-width: 1024px!important;
+}
+
+.wp-custom-logo .title-area {
+	width: 320px;
+}
+
+.custom-gov-home-grid {
+	line-height: 1.3;
+}
+
+.custom-gov-home-grid a {
+	color: #2c2d84;
+}
+
+.custom-gov-home-grid a:hover {
+	color: #1065a3;
+}
+
+.custom-gov-home-grid h3 a {
+	border-bottom: 2px solid;
+	text-transform: initial;
+	font-size: 1.3rem
+}
+
+.custom-gov-home-grid ul {
+	  padding: 0;
+    margin: 0;
+}
+
+.custom-gov-home-grid ul li {
+	list-style: none;
+	position: relative;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+
+.custom-gov-home-grid ul li:before {
+		content: "";
+    width: 8px;
+    height: 8px;
+    background: #d0cdc4;
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+    top: 7px;
+}
+
+.custom-gov-sub-headings .ab-notice-text {
+	padding-top: 0;
+}
+
+.custom-gov-sub-headings a {
+	color: #2c2d84;
+	text-decoration: underline;
+}
+
+.custom-gov-sub-headings a:hover {
+	color: #1065a3;
+}
+
+.custom-subpage-card {
+	display: block;
+	background-color: #f7f6f2;
+	border-bottom: 5px solid #2c2d84;
+	padding: 20px 20px 30px 20px;
+	text-decoration: none!important;
+}
+
+.custom-subpage-card:hover {
+	background-color: #edebe2;
+	color: #2c2d84!important;
+}
+
+.custom-subpage-card h3 {
+	margin-top: 0;
+	font-size: 1.2rem;
+	text-decoration: underline;
+}
+
+.custom-subpage-card p {
+	color: #000;
+}
+
+.search-results .entry-title a {
+	font-size: 1.4rem;
+	color: #2c2d84;
+}
+
+.search-results .entry-header::after
+{
+	display: none;
+}
+
+.search-results article 
+{
+	margin-bottom: 50px
+}
